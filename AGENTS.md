@@ -11,7 +11,7 @@ O enunciado permite o uso de IA apenas no relatório e proíbe seu uso para prod
 ## Evidências
 
 - Guarde capturas originais do simulador em `evidencias/homologacao/`.
-- Os três prints enviados por Tiago em 17/11/2026 foram arquivados sem edição: circuito, tabela-verdade e expressão booleana.
+- Os quatro prints enviados por Tiago em 17/11/2026 foram arquivados sem edição: circuito, tabela-verdade, expressão booleana e mapa de Karnaugh.
 - Preserve o arquivo `Circuito LogicSim.circ`; não o substitua sem pedido explícito.
 - Registre novas evidências com nomes claros, sem sobrescrever as anteriores.
 
